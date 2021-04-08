@@ -7,6 +7,10 @@
   overflow-x: hidden;
 }
 
+body{
+ overflow-x: hidden; 
+}
+
 #presentation {
   text-align: center;
   padding: 37px 0px;
