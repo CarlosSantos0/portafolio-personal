@@ -7,8 +7,8 @@
   overflow-x: hidden;
 }
 
-body{
- overflow-x: hidden; 
+body {
+  overflow-x: hidden;
 }
 
 #presentation {
@@ -40,7 +40,7 @@ body{
 .proyecto-informacion {
   position: absolute;
   width: 100%;
-  background: rgba(245,238,238,0.77);
+  background: rgba(245, 238, 238, 0.77);
   height: 100%;
   padding-top: 151px;
   border-radius: inherit;
@@ -122,3 +122,10 @@ body{
   background: url("../../assets/img/Proyecto3.svg") bottom / contain no-repeat;
 }
 
+.proyecto-4 {
+  background: url("../../assets/img/Proyecto4.svg") bottom / contain no-repeat;
+}
+
+.proyecto-5 {
+  background: url("../../assets/img/Proyecto5.svg") bottom / contain no-repeat;
+}
