@@ -137,3 +137,18 @@ body {
 .proyecto-7 {
   background: url("../../assets/img/Proyecto7.svg") bottom / contain no-repeat;
 }
+
+.proyecto-8 {
+  background: url("../../assets/img/sitio-web.png") bottom / contain no-repeat;
+}
+
+.proyecto-9 {
+  background: url("../../assets/img/sitio-web2.png") bottom / contain no-repeat;
+}
+
+.presentation-description {
+  font-size: 22px;
+  max-width: 1200px;
+  margin-inline: auto;
+  margin-block: 20px;
+}
