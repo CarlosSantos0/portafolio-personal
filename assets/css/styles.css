@@ -151,4 +151,9 @@ body {
   max-width: 1200px;
   margin-inline: auto;
   margin-block: 20px;
+  padding-inline: 20px;
+}
+
+.presentation-description b {
+  font-size: 22px;
 }
